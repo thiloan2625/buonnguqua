@@ -15,6 +15,7 @@ st.set_page_config(
     page_title="Order Nhà Hàng",
     page_icon="🍽️",
     layout="wide"
+    st.image("lolo1.jpg")
 )
 
 # ==============================================================================
