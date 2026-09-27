@@ -4,10 +4,10 @@ from datetime import datetime
 
 import pandas as pd
 import streamlit as st
-st.image("lolo1.jpg")
+
 from sqlalchemy import create_engine, text
 from sqlalchemy.engine import URL
-
+st.image("lolo1.jpg")
 # ==============================================================================
 # CẤU HÌNH STREAMLIT
 # ==============================================================================
