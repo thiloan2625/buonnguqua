@@ -4,6 +4,7 @@ from datetime import datetime
 
 import pandas as pd
 import streamlit as st
+st.image("lolo1.jpg")
 from sqlalchemy import create_engine, text
 from sqlalchemy.engine import URL
 
@@ -15,7 +16,6 @@ st.set_page_config(
     page_title="Order Nhà Hàng",
     page_icon="🍽️",
     layout="wide"
-    st.image("lolo1.jpg")
 )
 
 # ==============================================================================
